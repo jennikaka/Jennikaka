@@ -4,7 +4,6 @@
 - 👾 I’m interested in all-tech things
 - 💞️ I’m looking to collaborate on user-focused projects to improve people's lives, especially ones about community and education
 - 👀 Outside tech, I'm interested in skiing & snowboarding, jazz, photography, reading, and travelling
-- 📫 You can reach me by email: jennikakahui@gmail.com
 
 - Note: projects I contributed to and collaborated on are in the **Stars** section on my profile :)
 
