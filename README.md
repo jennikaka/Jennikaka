@@ -1,11 +1,12 @@
-- 👋 Hi, I’m Jenny Hui, a.k.a. @jennikaka
-- 🥰 I'm curious, hardworking, and proactive
-- 🌱 I’m currently interning at Ford and learning C++ and studying Software Engineering at the University of Waterloo with 4.0 GPA
-- 👾 I’m interested in all-tech things
-- 💞️ I’m looking to collaborate on user-focused projects to improve people's lives, especially ones about community and education
-- 👀 Outside tech, I'm interested in skiing & snowboarding, jazz, photography, reading, and travelling
+- 👋 Hi, I’m Jenny Hui
+- 👀 Unique blend of leadership, software, and communication skills
+- 🥰 Curious, hardworking, and proactive
+- 🚚 Previous software intern at Ford Motors Company, worked on WLAN automation testing using Python
+- 🌱 I’m currently on my 2A term at the University of Waterloo learning about statistics, compilers, cognitive processes and formal logic!
+- 💞️ I’m looking to collaborate on user-focused projects to improve people's lives
+- 👾 I’m interested in all-tech things, skiing & snowboarding, jazz, photography, reading, and travelling
 
-- Note: projects I contributed to and collaborated on are in the **Stars** section on my profile :)
+Note: projects I contributed to and collaborated on are in the **Stars** section on my profile :)
 
 <!---
 jennikaka/jennikaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
