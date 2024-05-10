@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Jenny Hui
-- 👀 Unique blend of leadership, software, and communication skills
+- 👀 Unique blend of data engineering, software dev, leadership, and communication skills
 - 🥰 Curious, hardworking, and proactive
-- 🚚 Previous software intern at Ford Motors Company, worked on WLAN automation testing using Python
-- 🌱 I’m currently on my 2A term at the University of Waterloo learning about statistics, compilers, cognitive processes and formal logic!
-- 💞️ I’m looking to collaborate on user-focused projects to improve people's lives
+- 🚚 Previous data engineer at DataPower, familiar with SQL, Kafka, ETL processes and data visualization; 
+      Previous software intern at Ford Motors Company, worked on WLAN automation testing using Python
+- 🌱 I’m currently on my 2B term at the University of Waterloo learning about data structures, databases, algorithms, and combinatorics!
+- 💞️ I’m looking to collaborate on data-driven projects to improve people's lives
 - 👾 I’m interested in all-tech things, skiing & snowboarding, jazz, photography, reading, and travelling
 
 Note: projects I contributed to and collaborated on are in the **Stars** section on my profile :)
