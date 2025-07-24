@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Jenny Hui
-- 🥰 FAST learner, curious, adaptable, hardworking, proactive
-- 🌱 I am on my 3A term at the University of Waterloo and learning about algorithms, operating systems, systems and signals, fast Fourier transforms, differential equations, software testing and quality assurance, user interfaces, and business negotiations!
-- 👀 Unique blend of engineering, software, data, leadership, and communication skills
-- 💼 Previous data engineer at Scotiabank and DataPower, excellent with SQL, Kafka, ETL processes and data pipelines; previous software intern at Ford Motors Company, worked on WLAN automation testing using Python
-- 💞️ I’m always open to chat or collaborate on data-driven projects to improve people's lives
-- 👾 Enthusiastic about escape rooms, skiing & snowboarding, running, knitting, painting, and travelling
+- 🏆 National Champion – Canadian Engineering Competition (1st of 800+)
+- 💻 Full-stack @ Rundoo — built Go/gRPC + React systems powering 10K+ B2B txns/day
+- 🛠️ Experience in backend, data, and automation at Scotiabank, Ford, and DataPower (GCP, Airflow, Kafka, Python)
+- 🌱 3B @ UWaterloo — learning concurrency, distributed systems, AI, control theory, and architecture
+- 🚀 Pursuing backend roles focused on building systems with scale, depth, and impact
+- ✨ Building projects that rethink how we connect, consume, and show up online
+- ⛰️ Outside of work: long hikes, skiing, half marathons, escape rooms, and painting
 
 Note: projects I contributed to and collaborated on are in the **Stars** section on my profile :)
 
