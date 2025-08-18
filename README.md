@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jenny Hui
 - 🏆 National Champion – Canadian Engineering Competition (1st of 800+)
-- 🌱 fourth year @ UWaterloo – learning concurrency, distributed systems, AI, control theory, and architecture
+- 🌱 4th year @ UWaterloo – learning concurrency, distributed systems, AI, control theory, and architecture
 - 💻 Full-stack @ Rundoo – built Go/gRPC + React systems powering 10K+ B2B txns/day
 - 🛠️ Experience in backend, data, and automation at Scotiabank, Ford, and DataPower (GCP, Airflow, Kafka, Python)
 - 🚀 Pursuing backend roles focused on building systems with scale, depth, and impact
