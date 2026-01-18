@@ -38,14 +38,6 @@ A fully featured chess engine with multiple difficulty levels, special move hand
 Designed using Observer and Strategy patterns with safe memory management via smart pointers.
 🔗 [Repo](https://github.com/YJL3888/chess)
 
-### 🏆 Highlights
-
-- National Champion, Canadian Engineering Competition (1st of 300+ teams)
-
-- Shipped production systems serving enterprise and B2B users
-
-- Strong background in systems thinking, execution, and communication
-
 ### 📫 Connect
 
 LinkedIn: https://linkedin.com/in/jennyhui27
