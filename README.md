@@ -15,15 +15,9 @@ Previously, I’ve built and shipped production systems across full-stack, data,
 - Product-facing systems with real users and operational constraints
 
 ### 🚀 Selected Projects
-#### LinearViz: Interactive 3D Linear Algebra Platform
-
-🏆 Winner, Google × University of Waterloo Futures Lab
-An interactive 3D platform that turns abstract linear algebra concepts into manipulable geometry, helping students build intuition for AI and data-driven fields.
-🔗 [News](https://uwaterloo.ca/news/mathematics/how-waterloos-future-work-institute-unlocking-human-learning-ai)
-
 #### Squiro: Collaborative Travel Organization App
 
-A mobile app that centralizes travel logistics (flights, hotels, reservations) while adding a shared memory layer with collaborative albums, stats, and recap reels.
+A web app that centralizes travel logistics (flights, hotels, reservations) while adding a shared memory layer with collaborative albums, stats, and recap reels.
 Built with Firebase and a product-first, social design focus. 🔗 [Demo](https://www.youtube.com/watch?v=HIvlKHlkFc4)
 
 #### Job Application Autopilot: Hack the North 2025
@@ -31,6 +25,12 @@ Built with Firebase and a product-first, social design focus. 🔗 [Demo](https:
 An end-to-end agent that scrapes job postings, matches them to user profiles, and auto-generates tailored resumes and cover letters.
 Uses Playwright automation, vector search (FAISS), and LLM-driven document generation under strict schemas.
 🔗 [Link](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fdevpost.com%2Fsoftware%2Fwaterlooactuallyworks&urlhash=aALR&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_media_list%3B8uNy27GTRFy7XtFOOpWXpA%3D%3D)
+
+#### LinearViz: Interactive 3D Linear Algebra Platform
+
+🏆 Winner, Google × University of Waterloo Futures Lab
+An interactive 3D platform that turns abstract linear algebra concepts into manipulable geometry, helping students build intuition for AI and data-driven fields.
+🔗 [News](https://uwaterloo.ca/news/mathematics/how-waterloos-future-work-institute-unlocking-human-learning-ai)
 
 #### Chess Engine & GUI (C++)
 
